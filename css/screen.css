@@ -3,3 +3,22 @@ body {
   margin: 0;
   padding: 0;
 }
+header { 
+  margin: 0 auto;  
+  text-align: center; 
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+section {
+  text-align: justify;
+  margin-left:300px;  
+  margin-right:300px;  
+  margin-bottom:25px;
+}
+
+div {
+  margin-left:300px;  
+  margin-right:300px;  
+  margin-bottom:25px;
+}
